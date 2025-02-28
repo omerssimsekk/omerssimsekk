@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Ömer Faruk Şimşek 👋
 
-<!--
-**omerssimsekk/omerssimsekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+Computer Engineering Student passionate about AI, Web Development, and building innovative solutions. I love exploring new technologies and applying them to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To
+- 🌱 Currently learning AI and Machine Learning
+- 💻 Working on full-stack web development projects
+- 🔍 Exploring new technologies in software development
+- 📚 Studying Computer Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Core Skills
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React.js, Next.js, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Databases:** MySQL, Supabase
+- **Tools:** Git, VS Code, Docker
+- **AI/ML:** TensorFlow, scikit-learn
+
+🏆 Featured Projects
+
+🎬 AI-Powered Movie Recommender
+A smart movie recommendation system using machine learning algorithms to suggest personalized movie choices based on user preferences and viewing history.
+
+📈 Stock Market & Financial News Dashboard
+Real-time financial data visualization platform with news integration and market analysis tools.
+
+✍️ Blog Generator with AI
+An innovative blog content generator leveraging AI to create engaging and SEO-optimized articles.
+
+🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 📫 Let's Connect!
+- Portfolio: [My Portfolio Website](https://omerssimsekk.github.io/portfolio/)
+- LinkedIn: [Connect with me](linkedin.com/in/omerssimsekk)
+- GitHub: [@omerssimsekk](https://github.com/omerssimsekk)
+
+---
