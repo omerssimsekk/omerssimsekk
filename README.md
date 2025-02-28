@@ -10,23 +10,23 @@ Computer Engineering Student passionate about AI, Web Development, and building 
 - 📚 Studying Computer Engineering
 
 ## 💡 Core Skills
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** React.js, Next.js, HTML5, CSS3
+- **Languages:** JavaScript
+- **Frontend:** React.js, Next.js
 - **Backend:** Node.js, Express.js
-- **Databases:** MySQL, Supabase
-- **Tools:** Git, VS Code, Docker
-- **AI/ML:** TensorFlow, scikit-learn
+- **Databases:** MySQL, 
+- **Tools:** Git, VS Code, Docker,Supabase
+- **AI/ML:** TensorFlow
 
 🏆 Featured Projects
 
 🎬 AI-Powered Movie Recommender
-A smart movie recommendation system using machine learning algorithms to suggest personalized movie choices based on user preferences and viewing history.
+A smart movie recommendation system using AI api to suggest similar movies with the movie user  entered.
 
 📈 Stock Market & Financial News Dashboard
 Real-time financial data visualization platform with news integration and market analysis tools.
 
 ✍️ Blog Generator with AI
-An innovative blog content generator leveraging AI to create engaging and SEO-optimized articles.
+An innovative blog content generator leveraging AI to create engaging and SEO-optimized blogs.
 
 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
