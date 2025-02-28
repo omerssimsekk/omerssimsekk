@@ -37,7 +37,7 @@ An innovative blog content generator leveraging AI to create engaging and SEO-op
 
 ## 📫 Let's Connect!
 - Portfolio: [My Portfolio Website](https://omerssimsekk.github.io/portfolio/)
-- LinkedIn: [Connect with me](linkedin.com/in/omerssimsekk)
+- LinkedIn: [Connect with me](https://linkedin.com/in/omerssimsekk)
 - GitHub: [@omerssimsekk](https://github.com/omerssimsekk)
 
 ---
