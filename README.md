@@ -13,7 +13,7 @@ Computer Engineering Student passionate about AI, Web Development, and building 
 - **Languages:** JavaScript
 - **Frontend:** React.js, Next.js
 - **Backend:** Node.js, Express.js
-- **Databases:** MySQL, 
+- **Databases:** PostgreSQL, 
 - **Tools:** Git, VS Code, Docker,Supabase
 - **AI/ML:** TensorFlow
 
@@ -38,6 +38,5 @@ An innovative blog content generator leveraging AI to create engaging and SEO-op
 ## 📫 Let's Connect!
 - Portfolio: [My Portfolio Website](https://omerssimsekk.github.io/portfolio/)
 - LinkedIn: [Connect with me](https://linkedin.com/in/omerssimsekk)
-- GitHub: [@omerssimsekk](https://github.com/omerssimsekk)
 
 ---
