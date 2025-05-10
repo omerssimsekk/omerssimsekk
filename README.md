@@ -36,7 +36,7 @@ An innovative blog content generator leveraging AI to create engaging and SEO-op
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📫 Let's Connect!
-- Portfolio: [My Portfolio Website](https://omerssimsekk.github.io/portfolio/)
+- Portfolio: [My Portfolio Website](omersimsek.me)
 - LinkedIn: [Connect with me](https://linkedin.com/in/omerssimsekk)
 
 ---
