@@ -33,7 +33,7 @@ An innovative blog content generator leveraging AI to create engaging and SEO-op
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-PostgreSQLL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📫 Let's Connect!
 - Portfolio: [My Portfolio Website](https://omersimsek.me/)
