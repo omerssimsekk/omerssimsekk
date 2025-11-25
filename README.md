@@ -1,10 +1,9 @@
 # Ömer Faruk Şimşek
 
-Writing code that accidentally turns into full-stack products.  
 Somewhere between web engineering, LLMs, and data-heavy systems. Trying to make things smarter, faster, and slightly overkill.
 
 ## What I Do
-- Build web apps that feel simple but aren’t  
+- Build web apps 
 - Add AI where it actually improves something  
 - Avoid over-engineering (and usually fail)
 
