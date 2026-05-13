@@ -8,5 +8,5 @@ Recently focusing on integrating LLMs and developing AI agents that automate rea
 **Tech:** Node.js · React · Next.js  
 **Focus:** LLM integrations · AI agents · data-driven systems
 
-Website: https://omersimsek.me  
+Website: https://omersimsek.dev  
 LinkedIn: https://linkedin.com/in/omerssimsekk
